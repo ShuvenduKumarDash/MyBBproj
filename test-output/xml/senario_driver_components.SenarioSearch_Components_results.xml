@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="126.891">
+  <properties />
+  
+  
+            <testcase name="invalidSearch_Test" time="62.995" classname="senario_driver_components.SenarioSearch_Components" />
+                <testcase name="invalidSearch_Test" time="63.896" classname="senario_driver_components.SenarioSearch_Components" />
+      
+</testsuite>

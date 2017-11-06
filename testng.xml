@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners> 
+   <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+   <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+ </listeners> 
+<test name="Test">
+        <!-- <groups should be Groups, otherwise we will get error> -->
+ <groups>
+     <Run>
+          <include name="sanity"/>
+          <exclude namr="regresion"/>
+     </Run>
+</groups>
+ 
+    <classes>
+      <class name="senario_driver_components.SenarioSearch_Components"/>
+      <class name="senario_driver_components.SenarioAddCart_component"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

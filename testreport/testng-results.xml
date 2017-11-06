@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="251497" started-at="2017-06-26T08:43:12Z" finished-at="2017-06-26T08:47:24Z">
+    <groups>
+      <group name="regresion">
+        <method signature="SenarioAddCart_component.deletecartTeat(java.util.Map)[pri:0, instance:senario_driver_components.SenarioAddCart_component@5bcea91b]" name="deletecartTeat" class="senario_driver_components.SenarioAddCart_component"/>
+        <method signature="SenarioSearch_Components.validSearch(java.util.Map)[pri:0, instance:senario_driver_components.SenarioSearch_Components@687080dc]" name="validSearch" class="senario_driver_components.SenarioSearch_Components"/>
+      </group> <!-- regresion -->
+      <group name="sanity">
+        <method signature="SenarioAddCart_component.atestaddCart(java.util.Map)[pri:0, instance:senario_driver_components.SenarioAddCart_component@5bcea91b]" name="atestaddCart" class="senario_driver_components.SenarioAddCart_component"/>
+        <method signature="SenarioSearch_Components.invalidSearch_Test(java.util.Map)[pri:0, instance:senario_driver_components.SenarioSearch_Components@687080dc]" name="invalidSearch_Test" class="senario_driver_components.SenarioSearch_Components"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="251497" started-at="2017-06-26T08:43:12Z" finished-at="2017-06-26T08:47:24Z">
+      <class name="senario_driver_components.SenarioSearch_Components">
+        <test-method status="PASS" signature="invalidSearch_Test(java.util.Map)[pri:0, instance:senario_driver_components.SenarioSearch_Components@687080dc]" name="invalidSearch_Test" duration-ms="71878" started-at="2017-06-26T14:13:13Z" data-provider="dp_invalidtest" finished-at="2017-06-26T14:14:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ExpectedResult=Sorry! There are no products to display., TC_ID=GB_01, Script_name=InValidSearch, SearchItems=###, Order_Set=1.0, Exicute_flag=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearch_Test -->
+        <test-method status="PASS" signature="invalidSearch_Test(java.util.Map)[pri:0, instance:senario_driver_components.SenarioSearch_Components@687080dc]" name="invalidSearch_Test" duration-ms="87558" started-at="2017-06-26T14:14:25Z" data-provider="dp_invalidtest" finished-at="2017-06-26T14:15:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ExpectedResult=Sorry! There are no products to display., TC_ID=GB_1.2, Script_name=InValidSearch, SearchItems=##, Order_Set=2.0, Exicute_flag=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearch_Test -->
+      </class> <!-- senario_driver_components.SenarioSearch_Components -->
+      <class name="senario_driver_components.SenarioAddCart_component">
+        <test-method status="PASS" signature="atestaddCart(java.util.Map)[pri:0, instance:senario_driver_components.SenarioAddCart_component@5bcea91b]" name="atestaddCart" duration-ms="90904" started-at="2017-06-26T14:15:53Z" data-provider="dp_AddCart" finished-at="2017-06-26T14:17:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{quantity=1.0, ExpectedResult=Raw Mango - Diced, TC_ID=GB_05, Script_name=AddCart, SearchItems=Raw Mango - Diced, Order_Set=1.0, Exicute_flag=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestaddCart -->
+      </class> <!-- senario_driver_components.SenarioAddCart_component -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

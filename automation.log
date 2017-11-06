@@ -1,0 +1,36 @@
+2017-06-26 12:21:25 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 12:22:03 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:22:35 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 12:23:07 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:23:39 INFO  SenarioAddCart_component:32 - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 12:24:29 INFO  SenarioAddCart_component:55 - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced
+2017-06-26 12:28:56 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 12:29:35 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:30:05 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 12:30:41 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:31:11 INFO  SenarioAddCart_component:32 - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 12:32:16 INFO  SenarioAddCart_component:55 - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced
+2017-06-26 12:33:58 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 12:34:32 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:35:02 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 12:35:39 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 12:36:09 INFO  SenarioAddCart_component:? - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 12:38:14 INFO  SenarioAddCart_component:? - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced
+2017-06-26 13:38:41 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 13:39:12 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 13:39:42 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 13:40:29 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 13:40:59 INFO  SenarioAddCart_component:? - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 13:41:47 INFO  SenarioAddCart_component:? - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced
+2017-06-26 13:45:33 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 13:46:07 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 13:46:37 INFO  SenarioSearch_Components:51 - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 13:47:10 INFO  SenarioSearch_Components:66 - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 13:47:40 INFO  SenarioAddCart_component:32 - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 13:48:37 INFO  SenarioAddCart_component:55 - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced
+2017-06-26 14:13:38 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_01 Order Set is 1
+2017-06-26 14:14:20 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 14:14:50 INFO  SenarioSearch_Components:? - Exicuting the TestCase GB_1.2 Order Set is 2
+2017-06-26 14:15:48 INFO  SenarioSearch_Components:? - Pass as actual test_result is Sorry! There are no products to display.Expected_Result is Sorry! There are no products to display.
+2017-06-26 14:16:18 INFO  SenarioAddCart_component:? - Exicute TestCase as TC_ID Order set is 1.0
+2017-06-26 14:17:17 INFO  SenarioAddCart_component:? - passed as ActualResult is Raw Mango - Diced ExpectedResult is Raw Mango - Diced

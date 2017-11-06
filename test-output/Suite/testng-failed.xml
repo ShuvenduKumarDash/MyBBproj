@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="senario_driver_components.SenarioSearch_Components">
+        <methods>
+          <include name="extend_repo"/>
+          <include name="validSearch"/>
+          <include name="invalidSearch_Test"/>
+        </methods>
+      </class> <!-- senario_driver_components.SenarioSearch_Components -->
+      <class name="senario_driver_components.SenarioAddCart_component">
+        <methods>
+          <include name="atestaddCart"/>
+          <include name="deletecartTeat"/>
+        </methods>
+      </class> <!-- senario_driver_components.SenarioAddCart_component -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
